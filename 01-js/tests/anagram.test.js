@@ -1,3 +1,4 @@
+debugger
 const isAnagram = require('../easy/anagram');
 
 describe('isAnagram', () => {
